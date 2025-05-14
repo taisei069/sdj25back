@@ -1,0 +1,3 @@
+flask
+dlask_cors
+janome
